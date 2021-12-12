@@ -1,10 +1,10 @@
 <?php
 
-date_default_timezone_set('Asia/Karachi');
+date_default_timezone_set('Asia/Beirut');
 
 //API host link
 $baseurl = "http://bringthings.com/API/attandance_system/index.php?p=";
-$frontend_url = "/portal";
+$frontend_url = "/admin";
 
 if (isset($_GET['p']) == "login") {
       

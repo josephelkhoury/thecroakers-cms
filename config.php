@@ -13,7 +13,7 @@ define('PRE_FIX' , "thecroakers_");
 
 //Access Your API URL in browser and you will get a code to put over here that will be something like this https://prnt.sc/w309sg
 
-$baseurl= "http://18.130.226.50/mobileapp_api/";
+$baseurl= "http://13.40.124.46/mobileapp_api/";
 define("status" , "live");
 define("API_KEY" , "156c4675-9608-4591-1111-00000");
 
