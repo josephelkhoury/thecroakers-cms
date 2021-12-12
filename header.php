@@ -2,7 +2,6 @@
 <!DOCTYPE html>
 <html lang="en">
 
-
 <head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -10,7 +9,7 @@
     <meta name="description" content="WiFi Admin Dashboard"/>
     <meta name="author" content=""/>
     <meta name="csrf-token" content="GtJPRtA43dGDwYBYLXszN4GFKL5m9qJR8DzyVuW8"/>
-    <title>TicTic Admin Panel</title>
+    <title>The Croakers Admin Panel</title>
     <link rel="shortcut icon" href="https://lh3.googleusercontent.com/ucgZNyvoAts9z2F9C1AB7U493p73Fsa4uiiZKCKuHEvRHIMVlWHk-SEAiSSZ-vv7YHQ=s360">
     <link href='https://fonts.googleapis.com/css?family=Droid+Sans:400,700' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Lato:300,400,700' rel='stylesheet' type='text/css'>

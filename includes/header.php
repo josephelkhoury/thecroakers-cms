@@ -11,8 +11,7 @@
     <meta name="author" content=""/>
     <meta name="csrf-token" content="GtJPRtA43dGDwYBYLXszN4GFKL5m9qJR8DzyVuW8"/>
     <title>D-Track Employee Mangement</title>
-    <link rel="shortcut icon"
-          href="https://lh3.googleusercontent.com/thV0Ipz-1e2Ht7GBoMhTSxa4C27w7av9y5W7miae_g7UzFDGghE71SNRsR0QnTxSsKc=s60">
+    <link rel="shortcut icon" href="https://lh3.googleusercontent.com/thV0Ipz-1e2Ht7GBoMhTSxa4C27w7av9y5W7miae_g7UzFDGghE71SNRsR0QnTxSsKc=s60">
     <link href='https://fonts.googleapis.com/css?family=Droid+Sans:400,700' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Lato:300,400,700' rel='stylesheet' type='text/css'>
     <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,700" rel="stylesheet">

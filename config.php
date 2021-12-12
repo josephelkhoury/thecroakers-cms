@@ -18,7 +18,7 @@ define("status" , "live");
 define("API_KEY" , "156c4675-9608-4591-1111-00000");
 
 //firebase database URL
-define('FIREBASE_DB_URL', 'https://your project id here.firebaseio.com/');
+define('FIREBASE_DB_URL', 'the-croakers-dev.firebaseio.com/');
 
 
 //dont change any thing here
