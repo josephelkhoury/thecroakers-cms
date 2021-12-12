@@ -8,7 +8,6 @@ if(isset($_SESSION[PRE_FIX.'id']))
 	
 	<?php require_once("rightsidebar.php"); ?> 
 	
-	
 		<?php 
 		
 		if(isset($_GET['p']) ) 
@@ -106,14 +105,7 @@ if(isset($_SESSION[PRE_FIX.'id']))
     		if( $_GET['p'] == "withdrawRequest" ) 
            	{ 
     			include("withdrawRequest.php");
-    		}
-    		
-    		
-    		
-    		
-    		
-    	
-    		
+    		}	
 		}
 		
 		?>
